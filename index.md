@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 개인정보 취급방침 - 이미지 분석기 앱
 
-You can use the [editor on GitHub](https://github.com/ziponia/image-analyzer-app-privacy-statement/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. 개인정보 처리목적
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+thtjwls 는 안드로이드 어플리케이션 "이미지 분석기" 에서 개인정보를 처리하고있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
 
-### Markdown
+- 이 앱은 카메라를 활용하여, 이미지를 분석하여 제공함으로써, 앱 내의 저장공간에 보관됩니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. 개인정보 처리위탁
 
-```markdown
-Syntax highlighted code block
+thtjwls 는 타 업체에 개인정보처리를 위탁하지 않습니다.
 
-# Header 1
-## Header 2
-### Header 3
+## 3. 정보주체의 권리,의무 및 그 행사방법
 
-- Bulleted
-- List
+이용자는 개인정보주체로서 다음과 같은 권리를 행사할 수 있습니다.
 
-1. Numbered
-2. List
+① 정보주체는 thtjwls에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
 
-**Bold** and _Italic_ and `Code` text
+- 오류 등이 있을 경우 정정 요구
 
-[Link](url) and ![Image](src)
-```
+- 삭제요구 : 사용자가 직접 앱을 삭제할 수 있습니다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 4. 처리하는 개인정보의 항목 작성
 
-### Jekyll Themes
+① thtjwls 은 다음의 개인정보 항목을 처리하고 있습니다.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ziponia/image-analyzer-app-privacy-statement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 카메라를 이용하여, 이미지를 분석하기 위해, android.permission.CAMERA를 사용합니다.
+사진을 촬영하여 추가하고자 할 때 해당 권한을 획득한 후 사진촬영 기능을 이용하는 것 외에
+어떠한 자료도 수집하거나 처리, 전송하지 않습니다.
 
-### Support or Contact
+## 5. 개인정보 보호책임자 작성
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+① thtjwls는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+
+▶ 개인정보 보호책임자
+
+성명 : Lee Ji Hoon
+
+직책 : 개인개발자
+
+직급 : 개인개발자
+
+연락처 : thtjwls@gmail.com
+
+▶ 개인정보 보호 담당부서
+
+부서명 : 개인개발자
+
+담당자 : thtjwls
+
+연락처 : thtjwls@gmail.com
+
+② 정보주체께서는 thtjwls의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. thtjwls는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+
+## 8. 개인정보 처리방침 변경
+
+① 이 개인정보취급방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+
+② 이 개인정보취급방침은 2019년 5월 1일부터 적용됩니다.
